@@ -7,9 +7,7 @@ You can reach me at debarrun@gmail.com
 
 ### Programming Languages
 
-- C++ 
-      C++ by Bartama Graphic from <a href="https://thenounproject.com/browse/icons/term/c/" target="_blank" title="C++ Icons">Noun Project</a> 
-          
+- C++    
 - C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 - JavaScript 
 
