@@ -8,7 +8,7 @@ You can reach me at debarrun@gmail.com
 ### Programming Languages
 
 - C++    
-- C ![c logo](https://64.media.tumblr.com/c78d68195336bf6da787ba6bd6a31568/44879c938804f377-99/s540x810/d0acedd24f6151210fbd09e5a8b43691e9610caa.pnj)
+- C ![c logo](https://64.media.tumblr.com/9db51cc9d7988cfd58fd38c788943bb9/98d52fe1f2eb00c0-7e/s75x75_c1/7a2c207fad65ed2de1835fedd9565a21b5b1abd0.pnj)
 - JavaScript 
 
 ### Frameworks & Technologies
