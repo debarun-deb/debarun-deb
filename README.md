@@ -7,8 +7,8 @@ You can reach me at debarrun@gmail.com
 
 ### Programming Languages
 
-- C++ ![C++ Logo](https://example.com/cpp-logo.png)
-- C ![C Logo](https://example.com/c-logo.png)
+- C++ ![C++ Logo](https://examp)
+- C ![C Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css)
 - JavaScript ![JavaScript Logo](https://example.com/javascript-logo.png)
 
 ### Frameworks & Technologies
