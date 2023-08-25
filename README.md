@@ -1,3 +1,5 @@
+👋 Hi there! I'm Debarun Deb, a student and a tech enthusiast,
+
 # 💫 About Me:
 🔭 I'm currently working on the backend of a movie recommendation website
 
