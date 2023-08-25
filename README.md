@@ -1,19 +1,30 @@
 # 👋 Introduction
 
-Hello, I'm [Your Name]! Welcome to my GitHub profile. I'm passionate about [Your Interests/Hobbies]. My background is in [Your Field/Area of Study], and I'm enthusiastic about [Specific Technologies or Topics].
+Hello, I'm Debarun Deb! Welcome to my GitHub profile.
+You can reach me at debarrun@gmail.com
 
 ## 🚀 Skills
 
-- Programming Languages: [List of Languages]
-- Frameworks & Technologies: [List of Frameworks/Tech]
-- Tools & Software: [List of Tools]
-- [Any other relevant skills]
+### Programming Languages
+
+- C++ ![C++ Logo](https://example.com/cpp-logo.png)
+- C ![C Logo](https://example.com/c-logo.png)
+- JavaScript ![JavaScript Logo](https://example.com/javascript-logo.png)
+
+### Frameworks & Technologies
+
+- Node.js ![Node.js Logo](https://example.com/nodejs-logo.png)
+- Express.js ![Express.js Logo](https://example.com/expressjs-logo.png)
+- MongoDB ![MongoDB Logo](https://example.com/mongodb-logo.png)
+
+### Tools & Software
+
+- npm ![npm Logo](https://example.com/npm-logo.png)
+- Postman ![Postman Logo](https://example.com/postman-logo.png)
 
 ## 💼 Professional Background
 
-- 🎓 [Degree] in [Field] from [University]
-- 💼 [Current/Previous Job Title] at [Company/Institution]
-- [Any other relevant work experiences]
+- 🎓 BTech in Computer Science of Technology from Sikkim Manipal Institute of Technology 
 
 ## 🌱 Projects
 
@@ -27,7 +38,7 @@ GitHub Repository: [Link to the project repository]
 Description: [Brief project description]
 GitHub Repository: [Link to the project repository]
 
-## 📫 Contact
+## 📫 Social
 
 You can reach me at [Your Email Address].
 
