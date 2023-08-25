@@ -1,4 +1,4 @@
-👋 Hi there! I'm Debarun Deb, a student and a tech enthusiast,
+<h1 text-align:center>👋 Hi there! I'm Debarun Deb, a student and a tech enthusiast</h1>
 
 # 💫 About Me:
 🔭 I'm currently working on the backend of a movie recommendation website
