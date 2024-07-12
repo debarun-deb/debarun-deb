@@ -2,7 +2,7 @@ name: Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '0 * * * *'  # Runs every hour
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Update README with recent activity
-        uses: readme-bot/actions@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - run: npm install -g @actions/core @actions/github
+      - uses: teoxoy/profile-readme-stats@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
